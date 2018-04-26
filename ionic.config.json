@@ -1,0 +1,9 @@
+{
+  "name": "mycosmos",
+  "app_id": "8467c538",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ],
+  "integrations": {}
+}
