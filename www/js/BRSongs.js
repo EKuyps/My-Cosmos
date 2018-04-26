@@ -66,12 +66,8 @@ $scope.songs =  [
       {imageSrc: '../img/IL/ILSongs/OH.jpg', url: 'https://www.youtube.com/watch?v=yjmp8CoZBIo'},
       {imageSrc: '../img/IL/ILSongs/jl.Jpg', url: 'https://www.youtube.com/watch?v=450p7goxZqg'},
       {imageSrc: '../img/IL/ILSongs/mt.png', url: 'https://www.youtube.com/watch?v=2-MBfn8XjIU'},
-      {imageSrc: '../img/St/StSongs/21.jpg', url: 'https://www.youtube.com/watch?v=pXRviuL6vMY'},
-      {imageSrc: '../img/St/StSongs/DN.png', url: 'https://www.youtube.com/watch?v=vWaRiD5ym74'},
-      {imageSrc: '../img/St/StSongs/ED.jpg', url: 'https://www.youtube.com/watch?v=nSDgHBxUbVQ'},
-      {imageSrc: '../img/St/StSongs/LM.png', url: 'https://www.youtube.com/watch?v=ifRoMGG8Wvs'},
-      {imageSrc: '../img/St/StSongs/NS.Jpg', url: 'https://www.youtube.com/watch?v=mjrBb4TO8Hk'},
-      {imageSrc: '../img/St/StSongs/PG.jpg', url: 'https://www.youtube.com/user/ThePianoGuys'}
+      
+
 
 
 ];

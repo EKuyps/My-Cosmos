@@ -5,12 +5,6 @@ angular.module('starter')
 .controller('MainController', function ($scope) {
   $scope.other =  [
 
-    {{imageSrc: '../img/St/StSongs/21.jpg', url: 'https://www.youtube.com/watch?v=pXRviuL6vMY'},
-    {imageSrc: '../img/St/StSongs/DN.png', url: 'https://www.youtube.com/watch?v=vWaRiD5ym74'},
-    {imageSrc: '../img/St/StSongs/ED.jpg', url: 'https://www.youtube.com/watch?v=nSDgHBxUbVQ'},
-    {imageSrc: '../img/St/StSongs/LM.png', url: 'https://www.youtube.com/watch?v=ifRoMGG8Wvs'},
-    {imageSrc: '../img/St/StSongs/NS.Jpg', url: 'https://www.youtube.com/watch?v=mjrBb4TO8Hk'},
-    {imageSrc: '../img/St/StSongs/PG.jpg', url: 'https://www.youtube.com/user/ThePianoGuys'},
     {imageSrc: '../img/Anx/AnxSongs/BA.jpg', url: 'https://www.youtube.com/watch?v=LzX23qVqyJg'},
     {imageSrc: '../img/Anx/AnxSongs/BJ.jpg', url: 'https://www.youtube.com/watch?v=qF3D2oiy6YA'},
     {imageSrc: '../img/Anx/AnxSongs/BT.jpg', url: 'https://www.youtube.com/watch?v=SaHrqKKFnSA'},
