@@ -7,4 +7,5 @@ An App that helps your mental health by suggesting different activities that imp
 ## Testing
 sadly, at the moment this code cannot be tested. The version of ionic used to programm the app has outdated plugins that prevent the app from running on a newer version of ionic. 
 
-Until the creator possibly remakes the app in a newer version of ionic, the app must be viewed from the video. 
+Until the I possibly remake the app in a newer version of ionic, the app must be viewed from the video. 
+
